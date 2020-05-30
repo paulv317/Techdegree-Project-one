@@ -55,15 +55,33 @@ a:hover {
   color: white
 }
 
-header {
+.main-header {
   text-align: center;
   background: url('images/union.jpg') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
 }
+
+.experience-header {
+  text-align: center;
+  background: url('images/artmuseum.jpg') no-repeat top center ;
+  background-size: cover;
+  overflow: hidden;
+  padding-top: 60px;
+}
+
+.hobbies-header {
+  text-align: center;
+  background: url('images/library.jpeg') no-repeat top center ;
+  background-size: cover;
+  overflow: hidden;
+  padding-top: 60px;
+}
+
 header {
   line-height: 1.5;
+
 }
 header .profile-image {
   margin-top: 50px;
